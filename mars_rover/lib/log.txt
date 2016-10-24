@@ -1,0 +1,24 @@
+ERROR:__main__:Index error in getting initial state and commands
+ERROR:__main__:Index error in getting initial state and commands
+ERROR:rover:Rover None - rover x-coordinate must be a zero or positive number
+ERROR:rover:Rover None - rover y-coordinate must be a zero or positive number
+ERROR:rover:Rover None - rover x-coordinate must be a zero or positive number
+ERROR:rover:Rover None - rover y-coordinate must be a zero or positive number
+WARNING:grid:Grid size is already set and cannot be modified
+WARNING:grid:Grid size is already set and cannot be modified
+WARNING:grid:Grid size is already set and cannot be modified
+WARNING:grid:Grid size is already set and cannot be modified
+WARNING:grid:Grid size is already set and cannot be modified
+WARNING:grid:Grid size is already set and cannot be modified
+WARNING:rover:Rover 1 - Unrecognizable command #
+WARNING:rover:Rover 1 - Unrecognizable command x
+WARNING:rover:Rover 1 - Unrecognizable command 2
+WARNING:grid:Grid size is already set and cannot be modified
+WARNING:rover:Rover 1 - No command for navigation
+WARNING:grid:Grid size is already set and cannot be modified
+WARNING:grid:Grid size is already set and cannot be modified
+WARNING:rover:Position not updated: x=1, y=6 is outside of grid area. 
+WARNING:rover:Position not updated: x=1, y=6 is outside of grid area. 
+WARNING:grid:Grid size is already set and cannot be modified
+WARNING:grid:Grid size is already set and cannot be modified
+WARNING:grid:Grid size is already set and cannot be modified
